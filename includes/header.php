@@ -19,6 +19,15 @@ $basePath = (isset($inAdmin) && $inAdmin) ? '../' : '';
 </head>
 <body>
 
+<!-- Live Animated Wallpaper Background -->
+<div class="live-wallpaper" id="liveWallpaper" aria-hidden="true">
+    <div class="wallpaper-orb orb-1"></div>
+    <div class="wallpaper-orb orb-2"></div>
+    <div class="wallpaper-orb orb-3"></div>
+    <div class="wallpaper-orb orb-4"></div>
+    <canvas id="liveWallpaperCanvas" class="wallpaper-canvas"></canvas>
+</div>
+
 <header class="navbar">
     <div class="navbar-container">
         <a href="<?= $basePath ?>index.php" class="brand">
