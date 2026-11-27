@@ -1,8 +1,7 @@
 # Django Girls Sierra Leone &bull; Community Management Platform
 **Course:** DCOMP207 Web Programming &bull; Final Project (35% / 100 Marks)  
 **Institution:** Limkokwing University of Creative Technology &bull; Faculty of ICT  
-**Student Name:** Alpha Hamidu Jalloh  
-**Student ID:** 905005193 &bull; **Class/Programme:** BIT2101 (Semester 05)  
+**Group:** 7 &bull; **Class/Programme:** BIT2101 (Semester 05)  
 **Examiner:** Oluwatosin Babarinde Ayorinde &bull; **Checked by:** Sheik Umar Kanu  
 
 ---

@@ -74,8 +74,8 @@ if (!$pdo) {
 // Global constant definition
 define('SITE_NAME', 'Django Girls Sierra Leone');
 define('APP_VERSION', '2.0.0 Final');
-define('STUDENT_NAME', 'Alpha Hamidu Jalloh');
-define('STUDENT_ID', '905005193');
+define('STUDENT_NAME', 'Group 7');
+define('STUDENT_ID', '');
 define('COURSE_CODE', 'DCOMP207');
 
 // 3. Global Helper Functions

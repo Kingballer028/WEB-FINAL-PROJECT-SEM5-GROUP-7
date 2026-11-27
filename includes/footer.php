@@ -46,8 +46,7 @@ $basePath = (isset($inAdmin) && $inAdmin) ? '../' : '';
         <div class="footer-col student-col">
             <h4>Developer Credentials</h4>
             <div class="student-card">
-                <p class="student-name"><strong>Student:</strong> Alpha Hamidu Jalloh</p>
-                <p><strong>Student ID:</strong> 905005193</p>
+                <p class="student-name"><strong>Group:</strong> 7</p>
                 <p><strong>Programme:</strong> BIT2101 (Semester 05)</p>
                 <p><strong>Examiner:</strong> Oluwatosin Babarinde Ayorinde</p>
                 <p><strong>Verified By:</strong> Sheik Umar Kanu</p>
@@ -56,7 +55,7 @@ $basePath = (isset($inAdmin) && $inAdmin) ? '../' : '';
     </div>
 
     <div class="footer-bottom">
-        <p>&copy; <?= date('Y') ?> Django Girls Sierra Leone | Developed by <strong>Alpha Hamidu Jalloh (ID: 905005193)</strong>. All Rights Reserved.</p>
+        <p>&copy; <?= date('Y') ?> Django Girls Sierra Leone | Developed by <strong>Group 7</strong>. All Rights Reserved.</p>
     </div>
 </footer>
 
